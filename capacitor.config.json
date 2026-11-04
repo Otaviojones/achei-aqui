@@ -1,0 +1,8 @@
+{
+  "appId": "com.acheiaqui.app",
+  "appName": "Achei Aqui",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
